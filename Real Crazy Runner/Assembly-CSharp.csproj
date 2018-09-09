@@ -73,16 +73,16 @@
     <Compile Include="Assets\TypeOut\Scripts\TypeOutEditor.cs" />
     <Compile Include="Assets\TypeOut\Scripts\TypeOutScript.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/נטע ארבל/Downloads/Real Crazy Runner-20180907T131227Z-001/Real Crazy Runner/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/נטע ארבל/Documents/GitHub/CrazyRunner/Real Crazy Runner/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/נטע ארבל/Downloads/Real Crazy Runner-20180907T131227Z-001/Real Crazy Runner/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/נטע ארבל/Documents/GitHub/CrazyRunner/Real Crazy Runner/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/נטע ארבל/Downloads/Real Crazy Runner-20180907T131227Z-001/Real Crazy Runner/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/נטע ארבל/Documents/GitHub/CrazyRunner/Real Crazy Runner/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/נטע ארבל/Downloads/Real Crazy Runner-20180907T131227Z-001/Real Crazy Runner/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/נטע ארבל/Documents/GitHub/CrazyRunner/Real Crazy Runner/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
