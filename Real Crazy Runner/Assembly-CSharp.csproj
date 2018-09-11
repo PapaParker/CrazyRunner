@@ -61,6 +61,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Currency.cs" />
+    <Compile Include="Assets\PickupMoney.cs" />
+    <Compile Include="Assets\PlayerCurrency.cs" />
+    <Compile Include="Assets\PlayerCurrency9.cs" />
+    <Compile Include="Assets\s.cs" />
     <Compile Include="Assets\Space\Scripts\ButtonsScript.cs" />
     <Compile Include="Assets\Space\Scripts\CameraControll.cs" />
     <Compile Include="Assets\Space\Scripts\GameManager.cs" />
@@ -68,7 +73,9 @@
     <Compile Include="Assets\Space\Scripts\PlatformDestroyer.cs" />
     <Compile Include="Assets\Space\Scripts\PlatformGeneration.cs" />
     <Compile Include="Assets\Space\Scripts\PlayerControl.cs" />
+    <Compile Include="Assets\Space\Scripts\PlayerCurrency.cs" />
     <Compile Include="Assets\Space\Scripts\ScoreManager.cs" />
+    <Compile Include="Assets\Space\Scripts\sdads.cs" />
     <Compile Include="Assets\TypeOut\Scripts\GUIScript.cs" />
     <Compile Include="Assets\TypeOut\Scripts\TypeOutEditor.cs" />
     <Compile Include="Assets\TypeOut\Scripts\TypeOutScript.cs" />
